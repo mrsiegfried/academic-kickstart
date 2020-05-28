@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matthew R. Siegfried
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Geophysics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Colorado School of Mines
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+bio: Matt is a glaciologist who uses satellite remote sensing techniques in combination with field-based and airborne geophysical methods to understand physical processes of Earth’s glaciers and ice sheets. He runs the Mines Glaciology Laboratory, where the team collects and synthesizes ground-, air-, and space-based datasets in an effort to span the spatial (centimeters to 100s of km) and temporal (minutes to centuries) on which these processes occur. He is particularly interested in processes at the ice-bed interface, which lies hidden beneath 10s to 1000s of meters of ice at the intersection between glaciology, hydrology, geology, microbiology, and oceanography. He strives to work with a diverse set of researchers to create a unique perspective on the role of subglacial processes within the larger global Earth system. As a polar scientist, Matt is also committed to maintaining an open discussion of the changing cryosphere, having collaborated with institutions ranging from local elementary schools to the U.S. State Department in an effort to facilitate our conversation about the local, regional, and global impacts of changes at the Earth’s poles. 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Earth Sciences
+    institution: Scripps Institution of Oceanography
+    year: 2015
+  - course: M.S. in Earth Sciences
+    institution: Dartmouth College
+    year: 2010
+  - course: A.B. in Earth Sciences
+    institution: Dartmouth College
     year: 2008
 
 # Social/Academic Networking
@@ -47,29 +42,27 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Mines Glaciology
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=ybHJBncAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mrsiegfried
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
