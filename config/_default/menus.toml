@@ -15,8 +15,13 @@
   weight = 30
 
 [[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 35
+  
+[[main]]
   name = "Publications"
-  url = "#publications"
+  url = "#featured"
   weight = 40
 
 [[main]]
@@ -30,3 +35,8 @@
     name = "CV"
     url = "files/cv.pdf"
     weight = 60
+
+[[main]]
+    name = "Research Group Website"
+    url = "https://www.mines.edu/glaciology"
+    weight = 70
