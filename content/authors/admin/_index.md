@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Matt is a glaciologist who uses satellite remote sensing techniques in combination with field-based and airborne geophysical methods to understand physical processes of Earth’s glaciers and ice sheets. He runs the Mines Glaciology Laboratory, where the team collects and synthesizes ground-, air-, and space-based datasets in an effort to span the spatial (centimeters to 100s of km) and temporal (minutes to centuries) on which these processes occur. He is particularly interested in processes at the ice-bed interface, which lies hidden beneath 10s to 1000s of meters of ice at the intersection between glaciology, hydrology, geology, microbiology, and oceanography. He strives to work with a diverse set of researchers to create a unique perspective on the role of subglacial processes within the larger global Earth system. As a polar scientist, Matt is also committed to maintaining an open discussion of the changing cryosphere, having collaborated with institutions ranging from local elementary schools to the U.S. State Department in an effort to facilitate our conversation about the local, regional, and global impacts of changes at the Earth’s poles. 
+bio: Assistant Professor, Department of Geophysics, Colorado School of Mines
 
 education:
   courses:
@@ -39,16 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:siegfried@mines.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Mines Glaciology
+  link: https://twitter.com/MinesGlaciology
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ybHJBncAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/mrsiegfried
+  link: https://github.com/MinesGlaciology
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -65,4 +65,4 @@ email: ""
 #- Visitors
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Matt is a glaciologist who uses satellite remote sensing techniques in combination with field-based and airborne geophysical methods to understand physical processes of Earth’s glaciers and ice sheets. He runs the <a href="https://www.mines.edu/glaciology" target="_blank">Mines Glaciology Laboratory</a>, where the team collects and synthesizes ground-, air-, and space-based datasets in an effort to span the spatial (centimeters to 100s of km) and temporal (minutes to centuries) on which these processes occur. He is particularly interested in processes at the ice-bed interface, which lies hidden beneath 10s to 1000s of meters of ice at the intersection between glaciology, hydrology, geology, microbiology, and oceanography. He strives to work with a diverse set of researchers to create a unique perspective on the role of subglacial processes within the larger global Earth system. As a polar scientist, Matt is also committed to maintaining an open discussion of the changing cryosphere, having collaborated with institutions ranging from local elementary schools to the U.S. State Department in an effort to facilitate our conversation about the local, regional, and global impacts of changes at the Earth’s poles. 
