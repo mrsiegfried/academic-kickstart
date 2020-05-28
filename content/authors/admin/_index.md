@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Geophysics
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Geophysics
+  url: "https://geophysics.mines.edu"
 - name: Colorado School of Mines
-  url: ""
+  url: "https://www.mines.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Assistant Professor, Department of Geophysics, Colorado School of Mines
