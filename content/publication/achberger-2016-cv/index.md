@@ -1,10 +1,11 @@
 ---
 title: "Microbial Community Structure of Subglacial Lake Whillans, West Antarctica"
-date: 2016-01-01
-publishDate: 2020-05-28T04:57:50.889040Z
-authors: ["Amanda M Achberger", "Brent C Christner", "Alexander B Michaud", "John C Priscu", "Mark L Skidmore", "Trista J Vick-Majors", "the WISSARD Science Team (incl. \textbfM. R. Siegfried)"]
+date: 2016-09-22
+publishDate: 2020-06-03T19:59:59.431072Z
+authors: ["Amanda M Achberger", "Brent C Christner", "Alexander B Michaud", "John C Priscu", "Mark L Skidmore", "Trista J Vick-Majors", "the WISSARD Science Team (incl. M. R. Siegfried)"]
 publication_types: ["2"]
-abstract: ""
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fmicb.2016.01457/pdf"
+abstract: "Subglacial Lake Whillans (SLW) is located beneath $∼$800 m of ice on the Whillans Ice Stream in West Antarctica and was sampled in January of 2013, providing the first opportunity to directly examine water and sediments from an Antarctic subglacial lake. To minimize the introduction of surface contaminants to SLW during its exploration, an access borehole was created using a microbiologically clean hot water drill designed to reduce the number and viability of microorganisms in the drilling water. Analysis of 16S rRNA genes (rDNA) amplified from samples of the drilling and borehole water allowed an evaluation of the efficacy of this approach and enabled a confident assessment of the SLW ecosystem inhabitants. Based on an analysis of 16S rDNA and rRNA (i.e., reverse-transcribed rRNA molecules) data, the SLW community was found to be bacterially dominated and compositionally distinct from the assemblages identified in the drill system. The abundance of bacteria (e.g., *Candidatus*  Nitrotoga, *Sideroxydans*, *Thiobacillus*, and *Albidiferax*) and archaea (*Candidatus* Nitrosoarchaeum) related to chemolithoautotrophs was consistent with the oxidation of reduced iron, sulfur, and nitrogen compounds having important roles as pathways for primary production in this permanently dark ecosystem. Further, the prevalence of Methylobacter in surficial lake sediments combined with the detection of methanogenic taxa in the deepest sediment horizons analyzed (34–36 cm) supported the hypothesis that methane cycling occurs beneath the West Antarctic Ice Sheet. Large ratios of rRNA to rDNA were observed for several operational taxonomic units abundant in the water column and sediments (e.g., *Albidiferax*, *Methylobacter*, *Candidatus* Nitrotoga, *Sideroxydans*, and *Smithella*), suggesting a potentially active role for these taxa in the SLW ecosystem. Our findings are consistent with chemosynthetic microorganisms serving as the ecological foundation in this dark subsurface environment, providing new organic matter that sustains a microbial ecosystem beneath the West Antarctic Ice Sheet."
 featured: false
 publication: "*Frontiers in Microbiology*"
 doi: "10.3389/fmicb.2016.01457"
