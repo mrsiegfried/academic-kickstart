@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "NASA Operation IceBridge Science Team"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "https://icebridge.gsfc.nasa.gov/"
   title = "Airborne laser altimetry error analysis"
   url = "https://icebridge.gsfc.nasa.gov/"
   certificate_url = ""
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   description = "As part of the Operation IceBridge Science Team, we worked to better quantify cm-scale errors in lidar data in order to generate robust, long-duration time series of dynamic surface features of the Antarctic ice sheet. Collaborating Institutions: Scripps Institution of Oceanography."
 
 [[item]]
-  organization = "National Science Foundation"
+  organization = "National Science Foundation, NASA"
   organization_url = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1931253&HistoricalAwards=false"
   title = "The West Antarctic Ice Sheet (WAIS) Workshop"
   url = "https://www.waisworkshop.org"
@@ -57,4 +57,5 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = "The WAIS Workshop has been held annually for the past 25 years, providing a venue for transdisciplinary scientific exchange on the state and behavior of the West Antarctic Ice Sheet, processes that influence its changing behavior, and projections of its future mass balance and sea-level contribution. Collaborating Institutions: University of Washington, University of Seattle, Lamont-Doherty Earth Observatory, NASA Goddard Space Flight Center"
+  
 +++
