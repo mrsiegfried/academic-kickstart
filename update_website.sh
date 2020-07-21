@@ -11,7 +11,7 @@ git commit -a -m"$1"
 git push
 cd public
 git add *
-git commit -a -m$1
+git commit -a -m"$1"
 git push
 cd ..
 echo "done updating website"
