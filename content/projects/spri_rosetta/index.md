@@ -1,0 +1,17 @@
+---
+featured: true
+title: "Investigating four decades of Ross Ice Shelf subsurface change with historical and modern radar sounding data"
+summary: "Funded by NASA GNSS Research (8/15/2021 to 8/14/2024)"
+date: '2021-08-15'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+---
+  **Funding Program:** [NSF Antarctic Science](https://nsf.gov/awardsearch/showAward?AWD_ID=2049302&HistoricalAwards=false)<br>
+  **Start Date:** 15 August 2021 <br>
+  **End Date:** 14 August 2024  <br>
+  **Collaborating Institutions:** Georgia Tech (lead), Stanford University 
+
+Ice shelves play a critical role in restricting the seaward flow of grounded glacier ice by providing buttressing at their bases and sides. Processes that affect the long-term stability of ice shelves can therefore influence the future contribution of the Antarctic Ice Sheet to global sea-level rise. The Ross Ice Shelf is the largest ice shelf on Earth, and it buttresses massive areas of West and East Antarctica. Previous studies of modern ice velocity indicated that the Ross Ice Shelf’s mass loss is roughly balanced by its mass gain. However, more recent work that extends further back in time reveals the ice shelf is likely not in steady state, with possible long-term thinning since the late 1990s. Consequently, to accurately interpret modern-day ice-shelf changes, long-term observations are critical to evaluate how these recent variations fit into the historical context of ice-shelf variability. This project will examine more than four decades of historical and modern airborne radar sounding observations of the Ross Ice Shelf (spanning 1971 to 2017) to investigate ice-shelf changes on decadal timescales. The team will process, calibrate, and analyze radar data collected during 1971-79 field campaigns and compare them against modern observations collected between 2011-17. They will estimate basal melt rates by examining changes in ice-shelf thickness, and will determine other important metrics for melt, including ice-shelf roughness, englacial temperature, and marine-ice formation. The project will support the education of a Ph.D. student at each of the three participating institutions. In addition, the project will support the training of undergraduate and high-school researchers in radioglaciology and Antarctic sciences.
+
+The project will test the hypothesis that, over decadal timescales, the basal melt rates beneath the Ross Ice Shelf have been low, particularly under shallow ice drafts, leading to overall thickening and increased buttressing potential. The team aims to provide a direct estimate of basal melt rates based on changes in ice-shelf thickness that occurred between 1971 and 2017. This project will extend similar work completed at Thwaites Glacier and improve the calibration methods on the vertical scaling for fast-time and depth conversion. The work will also leverage the dense modern surveys to improve the geolocation of radar film collected on earlier field campaigns to produce a more precise comparison of local shelf thickness with the modern data. In addition, the team will conduct englacial attenuation analysis to calculate englacial temperature to infer the trends in local basal melting. They will also examine the radiometric and scatterometric character of bed echoes at the ice-ocean boundary to characterize changes in ice-shelf basal roughness, marine-ice formation related to local basal freezing, and structural damage from fracture processes.

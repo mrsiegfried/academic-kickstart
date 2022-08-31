@@ -24,7 +24,7 @@ subtitle = ""
   icon = ":ocean:"
   icon_pack = "emoji"
   name = "Ice-Ocean Interaction"
-  description = "ice shelves, grounding zones, ice fronts"  
+  description = "ice shelves, grounding zones, ice fronts, polynyas"  
   
 [[feature]]
   icon = ":small_airplane:"
