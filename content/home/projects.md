@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Funded Projects"
-subtitle = "Here are our most recently funded projects [click here](https://mrsiegfried.github.io/projects) for the full list."
+subtitle = "Here are our most recently funded projects. [Click here](https://mrsiegfried.github.io/projects) for the full list."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
