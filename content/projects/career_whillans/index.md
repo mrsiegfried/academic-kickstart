@@ -1,6 +1,6 @@
 ---
 featured: true
-title: "Teaching old data new tricks: Leveraging legacy field data to investigate ice-stre am shut down and inspire a new generation of cryospheric scientists"
+title: "Teaching old data new tricks: Leveraging legacy field data to investigate ice-stream shut down and inspire a new generation of cryospheric scientists"
 summary: "Funded by NSF CAREER Program (8/1/2022 to 7/31/2027)"
 date: '2022-08-01'
 
