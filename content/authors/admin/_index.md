@@ -22,7 +22,7 @@ organizations:
 - name: "phone: 303.384.2004"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor, Department of Geophysics, Colorado School of Mines
+bio: Associate Professor, Department of Geophysics, Colorado School of Mines
 
 education:
   courses:
