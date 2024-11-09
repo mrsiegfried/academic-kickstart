@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#### to update cv, copy it to static/files/cv.pdf
+
 if [[ $# -ne 1 ]]; then
     echo "need to include a message"
     exit 0
