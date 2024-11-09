@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "[Click here](http://mrsiegfried.github.io/publication/) for our full list of publications"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
