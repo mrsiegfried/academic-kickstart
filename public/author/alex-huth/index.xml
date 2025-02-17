@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Huth | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/alex-huth/</link>
+      <atom:link href="http://localhost:1313/author/alex-huth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Huth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Alex Huth</title>
+      <link>http://localhost:1313/author/alex-huth/</link>
+    </image>
+    
+    <item>
+      <title>Land ice height-retrieval algorithm for NASA&#39;s ICESat-2 photon-counting laser altimeter</title>
+      <link>http://localhost:1313/publication/smith-2019/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/smith-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

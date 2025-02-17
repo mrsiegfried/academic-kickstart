@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amanda Achberger | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/amanda-achberger/</link>
+      <atom:link href="http://localhost:1313/author/amanda-achberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amanda Achberger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Amanda Achberger</title>
+      <link>http://localhost:1313/author/amanda-achberger/</link>
+    </image>
+    
+    <item>
+      <title>Biogeochemical and historical drivers of microbial community composition and structure in sediments from Mercer Subglacial Lake, West Antarctica</title>
+      <link>http://localhost:1313/publication/davis-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/davis-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

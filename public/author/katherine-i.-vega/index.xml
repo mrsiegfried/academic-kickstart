@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine I. Vega | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/katherine-i.-vega/</link>
+      <atom:link href="http://localhost:1313/author/katherine-i.-vega/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine I. Vega</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Katherine I. Vega</title>
+      <link>http://localhost:1313/author/katherine-i.-vega/</link>
+    </image>
+    
+    <item>
+      <title>Multidecadal observations of the Antarctic ice sheet from restored analog radar records</title>
+      <link>http://localhost:1313/publication/schroeder-2019/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schroeder-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

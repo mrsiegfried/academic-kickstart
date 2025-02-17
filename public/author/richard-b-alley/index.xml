@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard B Alley | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/richard-b-alley/</link>
+      <atom:link href="http://localhost:1313/author/richard-b-alley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Richard B Alley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Richard B Alley</title>
+      <link>http://localhost:1313/author/richard-b-alley/</link>
+    </image>
+    
+    <item>
+      <title>How Much, How Fast? A Review and Science Plan for Research on the Instability of Antarctica&#39;s Thwaites Glacier in the 21st Century</title>
+      <link>http://localhost:1313/publication/scambos-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/scambos-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estuaries beneath ice sheets</title>
+      <link>http://localhost:1313/publication/horgan-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/horgan-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

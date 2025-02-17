@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christine Siddoway | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/christine-siddoway/</link>
+      <atom:link href="http://localhost:1313/author/christine-siddoway/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christine Siddoway</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Christine Siddoway</title>
+      <link>http://localhost:1313/author/christine-siddoway/</link>
+    </image>
+    
+    <item>
+      <title>Ross Ice Shelf response to climate driven by the tectonic imprint on seafloor bathymetry</title>
+      <link>http://localhost:1313/publication/tinto-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tinto-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

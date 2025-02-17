@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ted a Scambos | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/ted-a-scambos/</link>
+      <atom:link href="http://localhost:1313/author/ted-a-scambos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ted a Scambos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Ted a Scambos</title>
+      <link>http://localhost:1313/author/ted-a-scambos/</link>
+    </image>
+    
+    <item>
+      <title>A decade of progress in observing and modeling Antarctic subglacial water systems</title>
+      <link>http://localhost:1313/publication/fricker-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fricker-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A decade of West Antarctic subglacial lake interactions from combined ICESat and CryoSat-2 altimetry</title>
+      <link>http://localhost:1313/publication/siegfried-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/siegfried-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

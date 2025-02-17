@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin R. Meyer | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/colin-r.-meyer/</link>
+      <atom:link href="http://localhost:1313/author/colin-r.-meyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Colin R. Meyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Colin R. Meyer</title>
+      <link>http://localhost:1313/author/colin-r.-meyer/</link>
+    </image>
+    
+    <item>
+      <title>Contemporary ice sheet thinning drives subglacial groundwater exfiltration with potential feedbacks on glacier flow</title>
+      <link>http://localhost:1313/publication/robel-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robel-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing subglacial lake activity with an altimetry-based inverse method</title>
+      <link>http://localhost:1313/publication/stubblefield-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/stubblefield-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

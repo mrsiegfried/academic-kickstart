@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. A. Fricker | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/h.-a.-fricker/</link>
+      <atom:link href="http://localhost:1313/author/h.-a.-fricker/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. A. Fricker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>H. A. Fricker</title>
+      <link>http://localhost:1313/author/h.-a.-fricker/</link>
+    </image>
+    
+    <item>
+      <title>Episodic ice velocity fluctuations triggered by a subglacial flood in West Antarctica</title>
+      <link>http://localhost:1313/publication/siegfried-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/siegfried-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subglacial Lake Whillans biogeochemistry: a synthesis of current knowledge</title>
+      <link>http://localhost:1313/publication/mikucki-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mikucki-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

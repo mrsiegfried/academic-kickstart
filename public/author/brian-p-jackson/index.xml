@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian P Jackson | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/brian-p-jackson/</link>
+      <atom:link href="http://localhost:1313/author/brian-p-jackson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian P Jackson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Brian P Jackson</title>
+      <link>http://localhost:1313/author/brian-p-jackson/</link>
+    </image>
+    
+    <item>
+      <title>Arsenic speciation in food chains from mid-Atlantic hydrothermal vents</title>
+      <link>http://localhost:1313/publication/taylor-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/taylor-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

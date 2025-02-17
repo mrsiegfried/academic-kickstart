@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edward Krula | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/edward-krula/</link>
+      <atom:link href="http://localhost:1313/author/edward-krula/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edward Krula</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Edward Krula</title>
+      <link>http://localhost:1313/author/edward-krula/</link>
+    </image>
+    
+    <item>
+      <title>Scientific Access into Mercer Subglacial Lake: Scientific Objectives, Drilling Operations and Initial Observations</title>
+      <link>http://localhost:1313/publication/priscu-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/priscu-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

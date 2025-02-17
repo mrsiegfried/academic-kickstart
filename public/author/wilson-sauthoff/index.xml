@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wilson Sauthoff | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/wilson-sauthoff/</link>
+      <atom:link href="http://localhost:1313/author/wilson-sauthoff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wilson Sauthoff</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Wilson Sauthoff</title>
+      <link>http://localhost:1313/author/wilson-sauthoff/</link>
+    </image>
+    
+    <item>
+      <title>Coincident Lake Drainage and Grounding Line Retreat at Engelhardt Subglacial Lake, West Antarctica</title>
+      <link>http://localhost:1313/publication/freer-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/freer-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing subglacial lake activity with an altimetry-based inverse method</title>
+      <link>http://localhost:1313/publication/stubblefield-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/stubblefield-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

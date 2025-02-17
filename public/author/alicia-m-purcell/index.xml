@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alicia M Purcell | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/alicia-m-purcell/</link>
+      <atom:link href="http://localhost:1313/author/alicia-m-purcell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alicia M Purcell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Alicia M Purcell</title>
+      <link>http://localhost:1313/author/alicia-m-purcell/</link>
+    </image>
+    
+    <item>
+      <title>Physiological ecology of microorganisms in Subglacial Lake Whillans</title>
+      <link>http://localhost:1313/publication/vick-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vick-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial sulfur transformations in sediments from Subglacial Lake Whillans</title>
+      <link>http://localhost:1313/publication/purcell-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/purcell-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

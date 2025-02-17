@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tasha Snow | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/tasha-snow/</link>
+      <atom:link href="http://localhost:1313/author/tasha-snow/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tasha Snow</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Tasha Snow</title>
+      <link>http://localhost:1313/author/tasha-snow/</link>
+    </image>
+    
+    <item>
+      <title>Alongshore Winds Force Warm Atlantic Water Toward Helheim Glacier in Southeast Greenland</title>
+      <link>http://localhost:1313/publication/snow-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/snow-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-decadal Record of Sensible-Heat Polynya Variability from Satellite Optical and Thermal Imagery at Pine Island Glacier, West Antarctica</title>
+      <link>http://localhost:1313/publication/savidge-2023-grl/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/savidge-2023-grl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wintertime Polynya Structure and Variability From Thermal Remote Sensing and Seal-Borne Observations at Pine Island Glacier, West Antarctica</title>
+      <link>http://localhost:1313/publication/savidge-2023-ieee/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/savidge-2023-ieee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

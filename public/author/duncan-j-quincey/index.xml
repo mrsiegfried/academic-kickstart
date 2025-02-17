@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duncan J Quincey | Matthew R. Siegfried</title>
+    <link>http://localhost:1313/author/duncan-j-quincey/</link>
+      <atom:link href="http://localhost:1313/author/duncan-j-quincey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duncan J Quincey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <title>Duncan J Quincey</title>
+      <link>http://localhost:1313/author/duncan-j-quincey/</link>
+    </image>
+    
+    <item>
+      <title>The structural and dynamic responses of Stange Ice Shelf to recent environmental change</title>
+      <link>http://localhost:1313/publication/holt-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/holt-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
