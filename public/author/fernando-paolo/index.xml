@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Paolo | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/fernando-paolo/</link>
-      <atom:link href="http://localhost:1313/author/fernando-paolo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/fernando-paolo/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/fernando-paolo/index.xml" rel="self" type="application/rss+xml" />
     <description>Fernando Paolo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 31 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Fernando Paolo</title>
-      <link>http://localhost:1313/author/fernando-paolo/</link>
+      <link>https://mrsiegfried.github.io/author/fernando-paolo/</link>
     </image>
     
     <item>
       <title>Variable basal melt rates of Antarctic Peninsula ice shelves, 1994–2016</title>
-      <link>http://localhost:1313/publication/adusumilli-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/adusumilli-2018/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adusumilli-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/adusumilli-2018/</guid>
       <description></description>
     </item>
     

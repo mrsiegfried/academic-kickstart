@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pierre Dutrieux | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/pierre-dutrieux/</link>
-      <atom:link href="http://localhost:1313/author/pierre-dutrieux/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/pierre-dutrieux/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/pierre-dutrieux/index.xml" rel="self" type="application/rss+xml" />
     <description>Pierre Dutrieux</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Pierre Dutrieux</title>
-      <link>http://localhost:1313/author/pierre-dutrieux/</link>
+      <link>https://mrsiegfried.github.io/author/pierre-dutrieux/</link>
     </image>
     
     <item>
       <title>How Much, How Fast? A Review and Science Plan for Research on the Instability of Antarctica&#39;s Thwaites Glacier in the 21st Century</title>
-      <link>http://localhost:1313/publication/scambos-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/scambos-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scambos-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/scambos-2017/</guid>
       <description></description>
     </item>
     

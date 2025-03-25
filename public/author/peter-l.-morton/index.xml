@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter L. Morton | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/peter-l.-morton/</link>
-      <atom:link href="http://localhost:1313/author/peter-l.-morton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/peter-l.-morton/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/peter-l.-morton/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter L. Morton</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Peter L. Morton</title>
-      <link>http://localhost:1313/author/peter-l.-morton/</link>
+      <link>https://mrsiegfried.github.io/author/peter-l.-morton/</link>
     </image>
     
     <item>
       <title>Enhanced trace element mobilization by Earth&#39;s ice sheets</title>
-      <link>http://localhost:1313/publication/hawkings-2020-cv/</link>
+      <link>https://mrsiegfried.github.io/publication/hawkings-2020-cv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hawkings-2020-cv/</guid>
+      <guid>https://mrsiegfried.github.io/publication/hawkings-2020-cv/</guid>
       <description></description>
     </item>
     

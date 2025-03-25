@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kirsty J. Tinto | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/kirsty-j.-tinto/</link>
-      <atom:link href="http://localhost:1313/author/kirsty-j.-tinto/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/kirsty-j.-tinto/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/kirsty-j.-tinto/index.xml" rel="self" type="application/rss+xml" />
     <description>Kirsty J. Tinto</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Kirsty J. Tinto</title>
-      <link>http://localhost:1313/author/kirsty-j.-tinto/</link>
+      <link>https://mrsiegfried.github.io/author/kirsty-j.-tinto/</link>
     </image>
     
     <item>
       <title>Multidecadal Basal Melt Rates and Structure of the Ross Ice Shelf, Antarctica, Using Airborne Ice Penetrating Radar</title>
-      <link>http://localhost:1313/publication/das-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/das-2020/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/das-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/das-2020/</guid>
       <description></description>
     </item>
     

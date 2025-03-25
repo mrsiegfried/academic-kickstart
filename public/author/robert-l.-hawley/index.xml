@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert L. Hawley | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/robert-l.-hawley/</link>
-      <atom:link href="http://localhost:1313/author/robert-l.-hawley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/robert-l.-hawley/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/robert-l.-hawley/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert L. Hawley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Robert L. Hawley</title>
-      <link>http://localhost:1313/author/robert-l.-hawley/</link>
+      <link>https://mrsiegfried.github.io/author/robert-l.-hawley/</link>
     </image>
     
     <item>
       <title>High-Resolution Ground-Based GPS Measurements Show Intercampaign Bias in ICESat Elevation Data Near Summit, Greenland</title>
-      <link>http://localhost:1313/publication/siegfried-2011/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2011/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2011/</guid>
       <description></description>
     </item>
     

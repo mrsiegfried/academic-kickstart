@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kim Roush | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/kim-roush/</link>
-      <atom:link href="http://localhost:1313/author/kim-roush/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/kim-roush/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/kim-roush/index.xml" rel="self" type="application/rss+xml" />
     <description>Kim Roush</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Kim Roush</title>
-      <link>http://localhost:1313/author/kim-roush/</link>
+      <link>https://mrsiegfried.github.io/author/kim-roush/</link>
     </image>
     
     <item>
       <title>Mid-Holocene grounding line variability in the southern Ross Embayment</title>
-      <link>http://localhost:1313/publication/venturelli-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/venturelli-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/venturelli-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/venturelli-2020/</guid>
       <description></description>
     </item>
     

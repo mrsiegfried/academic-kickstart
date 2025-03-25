@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander B. Michaud | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/alexander-b.-michaud/</link>
-      <atom:link href="http://localhost:1313/author/alexander-b.-michaud/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/alexander-b.-michaud/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/alexander-b.-michaud/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander B. Michaud</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Alexander B. Michaud</title>
-      <link>http://localhost:1313/author/alexander-b.-michaud/</link>
+      <link>https://mrsiegfried.github.io/author/alexander-b.-michaud/</link>
     </image>
     
     <item>
       <title>Constraints on the Timing and Extent of Deglacial Grounding Line Retreat in West Antarctica</title>
-      <link>http://localhost:1313/publication/venturelli-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/venturelli-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/venturelli-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/venturelli-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The life and death of a subglacial lake in West Antarctica</title>
-      <link>http://localhost:1313/publication/siegfried-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A dynamic saline groundwater system mapped beneath an Antarctic ice stream</title>
-      <link>http://localhost:1313/publication/gustafson-2022/</link>
+      <link>https://mrsiegfried.github.io/publication/gustafson-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gustafson-2022/</guid>
+      <guid>https://mrsiegfried.github.io/publication/gustafson-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scientific Access into Mercer Subglacial Lake: Scientific Objectives, Drilling Operations and Initial Observations</title>
-      <link>http://localhost:1313/publication/priscu-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/priscu-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/priscu-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/priscu-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A microbial ecosystem beneath the West Antarctic ice sheet</title>
-      <link>http://localhost:1313/publication/christner-2014-cv/</link>
+      <link>https://mrsiegfried.github.io/publication/christner-2014-cv/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/christner-2014-cv/</guid>
+      <guid>https://mrsiegfried.github.io/publication/christner-2014-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A microbiologically clean strategy for access to the Whillans Ice Stream subglacial environment</title>
-      <link>http://localhost:1313/publication/priscu-2013/</link>
+      <link>https://mrsiegfried.github.io/publication/priscu-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/priscu-2013/</guid>
+      <guid>https://mrsiegfried.github.io/publication/priscu-2013/</guid>
       <description></description>
     </item>
     

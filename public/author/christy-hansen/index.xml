@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christy Hansen | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/christy-hansen/</link>
-      <atom:link href="http://localhost:1313/author/christy-hansen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/christy-hansen/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/christy-hansen/index.xml" rel="self" type="application/rss+xml" />
     <description>Christy Hansen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Christy Hansen</title>
-      <link>http://localhost:1313/author/christy-hansen/</link>
+      <link>https://mrsiegfried.github.io/author/christy-hansen/</link>
     </image>
     
     <item>
       <title>The scientific legacy of NASA&#39;s Operation IceBridge</title>
-      <link>http://localhost:1313/publication/macgregor-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/macgregor-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/macgregor-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/macgregor-2021/</guid>
       <description></description>
     </item>
     

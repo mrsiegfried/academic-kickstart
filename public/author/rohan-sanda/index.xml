@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rohan Sanda | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/rohan-sanda/</link>
-      <atom:link href="http://localhost:1313/author/rohan-sanda/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/rohan-sanda/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/rohan-sanda/index.xml" rel="self" type="application/rss+xml" />
     <description>Rohan Sanda</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Rohan Sanda</title>
-      <link>http://localhost:1313/author/rohan-sanda/</link>
+      <link>https://mrsiegfried.github.io/author/rohan-sanda/</link>
     </image>
     
     <item>
       <title>Post-Processing Synchronized Bistatic Radar for Long Offset Glacier Sounding</title>
-      <link>http://localhost:1313/publication/bienert-2022/</link>
+      <link>https://mrsiegfried.github.io/publication/bienert-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bienert-2022/</guid>
+      <guid>https://mrsiegfried.github.io/publication/bienert-2022/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neil F Glasser | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/neil-f-glasser/</link>
-      <atom:link href="http://localhost:1313/author/neil-f-glasser/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/neil-f-glasser/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/neil-f-glasser/index.xml" rel="self" type="application/rss+xml" />
     <description>Neil F Glasser</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Neil F Glasser</title>
-      <link>http://localhost:1313/author/neil-f-glasser/</link>
+      <link>https://mrsiegfried.github.io/author/neil-f-glasser/</link>
     </image>
     
     <item>
       <title>The structural and dynamic responses of Stange Ice Shelf to recent environmental change</title>
-      <link>http://localhost:1313/publication/holt-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/holt-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holt-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/holt-2014/</guid>
       <description></description>
     </item>
     

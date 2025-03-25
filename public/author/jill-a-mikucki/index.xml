@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jill a Mikucki | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/jill-a-mikucki/</link>
-      <atom:link href="http://localhost:1313/author/jill-a-mikucki/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/jill-a-mikucki/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/jill-a-mikucki/index.xml" rel="self" type="application/rss+xml" />
     <description>Jill a Mikucki</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Jill a Mikucki</title>
-      <link>http://localhost:1313/author/jill-a-mikucki/</link>
+      <link>https://mrsiegfried.github.io/author/jill-a-mikucki/</link>
     </image>
     
     <item>
       <title>Physiological ecology of microorganisms in Subglacial Lake Whillans</title>
-      <link>http://localhost:1313/publication/vick-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/vick-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vick-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/vick-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbial sulfur transformations in sediments from Subglacial Lake Whillans</title>
-      <link>http://localhost:1313/publication/purcell-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/purcell-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/purcell-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/purcell-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WISSARD at Subglacial Lake Whillans, West Antarctica: scientific operations and initial observations</title>
-      <link>http://localhost:1313/publication/tulaczyk-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/tulaczyk-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tulaczyk-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/tulaczyk-2014/</guid>
       <description></description>
     </item>
     

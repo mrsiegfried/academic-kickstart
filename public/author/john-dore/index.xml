@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Dore | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/john-dore/</link>
-      <atom:link href="http://localhost:1313/author/john-dore/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/john-dore/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/john-dore/index.xml" rel="self" type="application/rss+xml" />
     <description>John Dore</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>John Dore</title>
-      <link>http://localhost:1313/author/john-dore/</link>
+      <link>https://mrsiegfried.github.io/author/john-dore/</link>
     </image>
     
     <item>
       <title>Biogeochemical and historical drivers of microbial community composition and structure in sediments from Mercer Subglacial Lake, West Antarctica</title>
-      <link>http://localhost:1313/publication/davis-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/davis-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/davis-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/davis-2023/</guid>
       <description></description>
     </item>
     

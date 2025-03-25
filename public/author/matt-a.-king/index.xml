@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matt A. King | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/matt-a.-king/</link>
-      <atom:link href="http://localhost:1313/author/matt-a.-king/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/matt-a.-king/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/matt-a.-king/index.xml" rel="self" type="application/rss+xml" />
     <description>Matt A. King</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Matt A. King</title>
-      <link>http://localhost:1313/author/matt-a.-king/</link>
+      <link>https://mrsiegfried.github.io/author/matt-a.-king/</link>
     </image>
     
     <item>
       <title>Ocean stratification and low melt rates at the Ross Ice Shelf grounding zone</title>
-      <link>http://localhost:1313/publication/begeman-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/begeman-2018/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/begeman-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/begeman-2018/</guid>
       <description></description>
     </item>
     

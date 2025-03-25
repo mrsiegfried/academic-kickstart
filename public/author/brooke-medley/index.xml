@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brooke Medley | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/brooke-medley/</link>
-      <atom:link href="http://localhost:1313/author/brooke-medley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/brooke-medley/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/brooke-medley/index.xml" rel="self" type="application/rss+xml" />
     <description>Brooke Medley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Brooke Medley</title>
-      <link>http://localhost:1313/author/brooke-medley/</link>
+      <link>https://mrsiegfried.github.io/author/brooke-medley/</link>
     </image>
     
     <item>
       <title>The scientific legacy of NASA&#39;s Operation IceBridge</title>
-      <link>http://localhost:1313/publication/macgregor-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/macgregor-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/macgregor-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/macgregor-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ocean-driven melting of Antarctica’s ice shelves varies on multi-year timescales</title>
-      <link>http://localhost:1313/publication/adusumilli-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/adusumilli-2020/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adusumilli-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/adusumilli-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pervasive ice sheet mass loss reflects competing ocean and atmosphere processes</title>
-      <link>http://localhost:1313/publication/smith-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/smith-2020/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/smith-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/smith-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Much, How Fast? A Review and Science Plan for Research on the Instability of Antarctica&#39;s Thwaites Glacier in the 21st Century</title>
-      <link>http://localhost:1313/publication/scambos-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/scambos-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scambos-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/scambos-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snow accumulation variability on a West Antarctic ice stream observed with GPS reflectometry, 2007--2017</title>
-      <link>http://localhost:1313/publication/siegfried-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2017/</guid>
       <description></description>
     </item>
     

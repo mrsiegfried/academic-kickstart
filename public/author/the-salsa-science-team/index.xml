@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The SALSA Science Team | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/the-salsa-science-team/</link>
-      <atom:link href="http://localhost:1313/author/the-salsa-science-team/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/the-salsa-science-team/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/the-salsa-science-team/index.xml" rel="self" type="application/rss+xml" />
     <description>The SALSA Science Team</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>The SALSA Science Team</title>
-      <link>http://localhost:1313/author/the-salsa-science-team/</link>
+      <link>https://mrsiegfried.github.io/author/the-salsa-science-team/</link>
     </image>
     
     <item>
       <title>A method for successful collection of multicores and gravity cores from Antarctic subglacial lakes</title>
-      <link>http://localhost:1313/publication/rosenheim-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/rosenheim-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rosenheim-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/rosenheim-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constraints on the Timing and Extent of Deglacial Grounding Line Retreat in West Antarctica</title>
-      <link>http://localhost:1313/publication/venturelli-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/venturelli-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/venturelli-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/venturelli-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The life and death of a subglacial lake in West Antarctica</title>
-      <link>http://localhost:1313/publication/siegfried-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2023/</guid>
       <description></description>
     </item>
     

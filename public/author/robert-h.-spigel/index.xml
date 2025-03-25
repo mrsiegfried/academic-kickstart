@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert H. Spigel | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/robert-h.-spigel/</link>
-      <atom:link href="http://localhost:1313/author/robert-h.-spigel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/robert-h.-spigel/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/robert-h.-spigel/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert H. Spigel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Robert H. Spigel</title>
-      <link>http://localhost:1313/author/robert-h.-spigel/</link>
+      <link>https://mrsiegfried.github.io/author/robert-h.-spigel/</link>
     </image>
     
     <item>
       <title>A microbiologically clean strategy for access to the Whillans Ice Stream subglacial environment</title>
-      <link>http://localhost:1313/publication/priscu-2013/</link>
+      <link>https://mrsiegfried.github.io/publication/priscu-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/priscu-2013/</guid>
+      <guid>https://mrsiegfried.github.io/publication/priscu-2013/</guid>
       <description></description>
     </item>
     

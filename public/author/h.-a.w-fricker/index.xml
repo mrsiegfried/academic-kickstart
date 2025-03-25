@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H. A.w Fricker | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/h.-a.w-fricker/</link>
-      <atom:link href="http://localhost:1313/author/h.-a.w-fricker/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/h.-a.w-fricker/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/h.-a.w-fricker/index.xml" rel="self" type="application/rss+xml" />
     <description>H. A.w Fricker</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>H. A.w Fricker</title>
-      <link>http://localhost:1313/author/h.-a.w-fricker/</link>
+      <link>https://mrsiegfried.github.io/author/h.-a.w-fricker/</link>
     </image>
     
     <item>
       <title>Impacts of warm water on Antarctic ice shelf stability through basal channel formation</title>
-      <link>http://localhost:1313/publication/alley-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/alley-2016/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alley-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/alley-2016/</guid>
       <description></description>
     </item>
     

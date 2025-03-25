@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Kingslake | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/jonathan-kingslake/</link>
-      <atom:link href="http://localhost:1313/author/jonathan-kingslake/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/jonathan-kingslake/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/jonathan-kingslake/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Kingslake</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Jonathan Kingslake</title>
-      <link>http://localhost:1313/author/jonathan-kingslake/</link>
+      <link>https://mrsiegfried.github.io/author/jonathan-kingslake/</link>
     </image>
     
     <item>
       <title>Surface expression and apparent timing of subglacial lake oscillations controlled by viscous ice flow</title>
-      <link>http://localhost:1313/publication/stubblefield-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/stubblefield-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stubblefield-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/stubblefield-2021/</guid>
       <description></description>
     </item>
     

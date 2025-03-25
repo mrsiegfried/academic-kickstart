@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dustin M. Schroeder | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/dustin-m.-schroeder/</link>
-      <atom:link href="http://localhost:1313/author/dustin-m.-schroeder/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/dustin-m.-schroeder/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/dustin-m.-schroeder/index.xml" rel="self" type="application/rss+xml" />
     <description>Dustin M. Schroeder</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Dustin M. Schroeder</title>
-      <link>http://localhost:1313/author/dustin-m.-schroeder/</link>
+      <link>https://mrsiegfried.github.io/author/dustin-m.-schroeder/</link>
     </image>
     
     <item>
       <title>Entrained Water in Basal Ice Suppresses Radar Bed‐Echo Power at Active Subglacial Lakes</title>
-      <link>http://localhost:1313/publication/hills-2024/</link>
+      <link>https://mrsiegfried.github.io/publication/hills-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hills-2024/</guid>
+      <guid>https://mrsiegfried.github.io/publication/hills-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The life and death of a subglacial lake in West Antarctica</title>
-      <link>http://localhost:1313/publication/siegfried-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-Processing Synchronized Bistatic Radar for Long Offset Glacier Sounding</title>
-      <link>http://localhost:1313/publication/bienert-2022/</link>
+      <link>https://mrsiegfried.github.io/publication/bienert-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bienert-2022/</guid>
+      <guid>https://mrsiegfried.github.io/publication/bienert-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpreting englacial layer deformation in the presence of complex ice flow history with synthetic radargrams</title>
-      <link>http://localhost:1313/publication/elsworth-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/elsworth-2020/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elsworth-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/elsworth-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidecadal observations of the Antarctic ice sheet from restored analog radar records</title>
-      <link>http://localhost:1313/publication/schroeder-2019/</link>
+      <link>https://mrsiegfried.github.io/publication/schroeder-2019/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schroeder-2019/</guid>
+      <guid>https://mrsiegfried.github.io/publication/schroeder-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retrieval of Englacial Firn Aquifer Thickness from Ice-Penetrating Radar Sounding in Southeast Greenland</title>
-      <link>http://localhost:1313/publication/chu-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/chu-2018/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chu-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/chu-2018/</guid>
       <description></description>
     </item>
     

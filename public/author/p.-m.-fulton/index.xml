@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. M. Fulton | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/p.-m.-fulton/</link>
-      <atom:link href="http://localhost:1313/author/p.-m.-fulton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/p.-m.-fulton/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/p.-m.-fulton/index.xml" rel="self" type="application/rss+xml" />
     <description>P. M. Fulton</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>P. M. Fulton</title>
-      <link>http://localhost:1313/author/p.-m.-fulton/</link>
+      <link>https://mrsiegfried.github.io/author/p.-m.-fulton/</link>
     </image>
     
     <item>
       <title>Migratory earthquake precursors are dominant on an ice stream fault</title>
-      <link>http://localhost:1313/publication/barcheck-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/barcheck-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/barcheck-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/barcheck-2021/</guid>
       <description></description>
     </item>
     

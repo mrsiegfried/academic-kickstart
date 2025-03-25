@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Knut Christianson | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/knut-christianson/</link>
-      <atom:link href="http://localhost:1313/author/knut-christianson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/knut-christianson/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/knut-christianson/index.xml" rel="self" type="application/rss+xml" />
     <description>Knut Christianson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Knut Christianson</title>
-      <link>http://localhost:1313/author/knut-christianson/</link>
+      <link>https://mrsiegfried.github.io/author/knut-christianson/</link>
     </image>
     
     <item>
       <title>Grounding zone subglacial properties from calibrated active-source seismic methods</title>
-      <link>http://localhost:1313/publication/horgan-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/horgan-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/horgan-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/horgan-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ocean stratification and low melt rates at the Ross Ice Shelf grounding zone</title>
-      <link>http://localhost:1313/publication/begeman-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/begeman-2018/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/begeman-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/begeman-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Much, How Fast? A Review and Science Plan for Research on the Instability of Antarctica&#39;s Thwaites Glacier in the 21st Century</title>
-      <link>http://localhost:1313/publication/scambos-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/scambos-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scambos-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/scambos-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High basal melting forming a channel at the grounding line of Ross Ice Shelf, Antarctica</title>
-      <link>http://localhost:1313/publication/marsh-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/marsh-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/marsh-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/marsh-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A microbial ecosystem beneath the West Antarctic ice sheet</title>
-      <link>http://localhost:1313/publication/christner-2014-cv/</link>
+      <link>https://mrsiegfried.github.io/publication/christner-2014-cv/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/christner-2014-cv/</guid>
+      <guid>https://mrsiegfried.github.io/publication/christner-2014-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estuaries beneath ice sheets</title>
-      <link>http://localhost:1313/publication/horgan-2013/</link>
+      <link>https://mrsiegfried.github.io/publication/horgan-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/horgan-2013/</guid>
+      <guid>https://mrsiegfried.github.io/publication/horgan-2013/</guid>
       <description></description>
     </item>
     

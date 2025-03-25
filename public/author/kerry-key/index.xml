@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kerry Key | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/kerry-key/</link>
-      <atom:link href="http://localhost:1313/author/kerry-key/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/kerry-key/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/kerry-key/index.xml" rel="self" type="application/rss+xml" />
     <description>Kerry Key</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Kerry Key</title>
-      <link>http://localhost:1313/author/kerry-key/</link>
+      <link>https://mrsiegfried.github.io/author/kerry-key/</link>
     </image>
     
     <item>
       <title>A dynamic saline groundwater system mapped beneath an Antarctic ice stream</title>
-      <link>http://localhost:1313/publication/gustafson-2022/</link>
+      <link>https://mrsiegfried.github.io/publication/gustafson-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gustafson-2022/</guid>
+      <guid>https://mrsiegfried.github.io/publication/gustafson-2022/</guid>
       <description></description>
     </item>
     

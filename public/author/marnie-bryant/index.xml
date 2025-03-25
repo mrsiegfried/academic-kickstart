@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marnie Bryant | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/marnie-bryant/</link>
-      <atom:link href="http://localhost:1313/author/marnie-bryant/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/marnie-bryant/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/marnie-bryant/index.xml" rel="self" type="application/rss+xml" />
     <description>Marnie Bryant</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Marnie Bryant</title>
-      <link>http://localhost:1313/author/marnie-bryant/</link>
+      <link>https://mrsiegfried.github.io/author/marnie-bryant/</link>
     </image>
     
     <item>
       <title>Quantifying surface-height change over a periglacial environment with ICESat-2 laser altimetry</title>
-      <link>http://localhost:1313/publication/michaelides-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/michaelides-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/michaelides-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/michaelides-2021/</guid>
       <description></description>
     </item>
     

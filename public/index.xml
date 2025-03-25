@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew R. Siegfried</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/</link>
+      <atom:link href="https://mrsiegfried.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew R. Siegfried</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Matthew R. Siegfried</title>
-      <link>http://localhost:1313/</link>
+      <link>https://mrsiegfried.github.io/</link>
     </image>
     
     <item>
       <title>Coincident Lake Drainage and Grounding Line Retreat at Engelhardt Subglacial Lake, West Antarctica</title>
-      <link>http://localhost:1313/publication/freer-2024/</link>
+      <link>https://mrsiegfried.github.io/publication/freer-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/freer-2024/</guid>
+      <guid>https://mrsiegfried.github.io/publication/freer-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrained Water in Basal Ice Suppresses Radar Bed‐Echo Power at Active Subglacial Lakes</title>
-      <link>http://localhost:1313/publication/hills-2024/</link>
+      <link>https://mrsiegfried.github.io/publication/hills-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hills-2024/</guid>
+      <guid>https://mrsiegfried.github.io/publication/hills-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A method for successful collection of multicores and gravity cores from Antarctic subglacial lakes</title>
-      <link>http://localhost:1313/publication/rosenheim-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/rosenheim-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rosenheim-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/rosenheim-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alongshore Winds Force Warm Atlantic Water Toward Helheim Glacier in Southeast Greenland</title>
-      <link>http://localhost:1313/publication/snow-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/snow-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/snow-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/snow-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biogeochemical and historical drivers of microbial community composition and structure in sediments from Mercer Subglacial Lake, West Antarctica</title>
-      <link>http://localhost:1313/publication/davis-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/davis-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/davis-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/davis-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constraints on the Timing and Extent of Deglacial Grounding Line Retreat in West Antarctica</title>
-      <link>http://localhost:1313/publication/venturelli-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/venturelli-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/venturelli-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/venturelli-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contemporary ice sheet thinning drives subglacial groundwater exfiltration with potential feedbacks on glacier flow</title>
-      <link>http://localhost:1313/publication/robel-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/robel-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/robel-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/robel-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-decadal Record of Sensible-Heat Polynya Variability from Satellite Optical and Thermal Imagery at Pine Island Glacier, West Antarctica</title>
-      <link>http://localhost:1313/publication/savidge-2023-grl/</link>
+      <link>https://mrsiegfried.github.io/publication/savidge-2023-grl/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/savidge-2023-grl/</guid>
+      <guid>https://mrsiegfried.github.io/publication/savidge-2023-grl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconstructing subglacial lake activity with an altimetry-based inverse method</title>
-      <link>http://localhost:1313/publication/stubblefield-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/stubblefield-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stubblefield-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/stubblefield-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The life and death of a subglacial lake in West Antarctica</title>
-      <link>http://localhost:1313/publication/siegfried-2023/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2023/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wintertime Polynya Structure and Variability From Thermal Remote Sensing and Seal-Borne Observations at Pine Island Glacier, West Antarctica</title>
-      <link>http://localhost:1313/publication/savidge-2023-ieee/</link>
+      <link>https://mrsiegfried.github.io/publication/savidge-2023-ieee/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/savidge-2023-ieee/</guid>
+      <guid>https://mrsiegfried.github.io/publication/savidge-2023-ieee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating NASA Cryosphere and ICESat-2 science with collaborative cloud computing</title>
-      <link>http://localhost:1313/projects/cryo_in_the_cloud/</link>
+      <link>https://mrsiegfried.github.io/projects/cryo_in_the_cloud/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/cryo_in_the_cloud/</guid>
+      <guid>https://mrsiegfried.github.io/projects/cryo_in_the_cloud/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://science.nasa.gov/open-science/transform-to-open-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Transform to Open Science &lt;/a&gt; and 
 &lt;a href=&#34;https://icesat-2.gsfc.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA ICESat-2 Project Science Office&lt;/a&gt;&lt;br&gt;
@@ -120,9 +120,9 @@
     
     <item>
       <title>Teaching old data new tricks: Leveraging legacy field data to investigate ice-stream shut down and inspire a new generation of cryospheric scientists</title>
-      <link>http://localhost:1313/projects/career_whillans/</link>
+      <link>https://mrsiegfried.github.io/projects/career_whillans/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/career_whillans/</guid>
+      <guid>https://mrsiegfried.github.io/projects/career_whillans/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=2145407&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF CAREER Program&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 August 2022 &lt;br&gt;
@@ -134,9 +134,9 @@
     
     <item>
       <title>Quantifying bias and uncertainty sources between laser and radar retrievals of surface topography over cryospheric targets</title>
-      <link>http://localhost:1313/projects/dsi/</link>
+      <link>https://mrsiegfried.github.io/projects/dsi/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dsi/</guid>
+      <guid>https://mrsiegfried.github.io/projects/dsi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=854093/solicitationId=%7B666D7B9E-7538-92FE-4BF6-63FFD313B47F%7D/viewSolicitationDocument=1/CRYO21%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Decadal Survey Incubation Program Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 15 June 2022 &lt;br&gt;
@@ -155,17 +155,17 @@
     
     <item>
       <title>A dynamic saline groundwater system mapped beneath an Antarctic ice stream</title>
-      <link>http://localhost:1313/publication/gustafson-2022/</link>
+      <link>https://mrsiegfried.github.io/publication/gustafson-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gustafson-2022/</guid>
+      <guid>https://mrsiegfried.github.io/publication/gustafson-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seeds of Change: Investigating the Impact of Antarctic Basal Channel and Persistent Polynya Co-Evolution on Ice Shelf Stability</title>
-      <link>http://localhost:1313/projects/cryo_polynyas/</link>
+      <link>https://mrsiegfried.github.io/projects/cryo_polynyas/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/cryo_polynyas/</guid>
+      <guid>https://mrsiegfried.github.io/projects/cryo_polynyas/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=854093/solicitationId=%7B666D7B9E-7538-92FE-4BF6-63FFD313B47F%7D/viewSolicitationDocument=1/CRYO21%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Cryospheric Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 February 2022 &lt;br&gt;
@@ -184,25 +184,25 @@
     
     <item>
       <title>Global synthesis of subglacial lakes and their changing role in a warming climate</title>
-      <link>http://localhost:1313/publication/livingstone-2022/</link>
+      <link>https://mrsiegfried.github.io/publication/livingstone-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/livingstone-2022/</guid>
+      <guid>https://mrsiegfried.github.io/publication/livingstone-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post-Processing Synchronized Bistatic Radar for Long Offset Glacier Sounding</title>
-      <link>http://localhost:1313/publication/bienert-2022/</link>
+      <link>https://mrsiegfried.github.io/publication/bienert-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bienert-2022/</guid>
+      <guid>https://mrsiegfried.github.io/publication/bienert-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating four decades of Ross Ice Shelf subsurface change with historical and modern radar sounding data</title>
-      <link>http://localhost:1313/projects/spri_rosetta/</link>
+      <link>https://mrsiegfried.github.io/projects/spri_rosetta/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/spri_rosetta/</guid>
+      <guid>https://mrsiegfried.github.io/projects/spri_rosetta/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=2049302&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF Antarctic Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 15 August 2021 &lt;br&gt;
@@ -215,9 +215,9 @@
     
     <item>
       <title>Leveraging ICESat-2 altimetry for Antarctic subglacial lake identification, evolution, and basal properties</title>
-      <link>http://localhost:1313/projects/icesat2_science-team/</link>
+      <link>https://mrsiegfried.github.io/projects/icesat2_science-team/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/icesat2_science-team/</guid>
+      <guid>https://mrsiegfried.github.io/projects/icesat2_science-team/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=800798/solicitationId=%7B26E97B17-21F2-26AE-D907-0BF9B458A05F%7D/viewSolicitationDocument=1/GNSS19%20selections_updated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Studies with ICESat-2&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 May 2021 &lt;br&gt;
@@ -233,73 +233,73 @@
     
     <item>
       <title>Buoyancy-driven flexure at the front of Ross Ice Shelf, Antarctica, observed by ICESat-2 satellite laser altimetry</title>
-      <link>http://localhost:1313/publication/becker-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/becker-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/becker-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/becker-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grounding zone subglacial properties from calibrated active-source seismic methods</title>
-      <link>http://localhost:1313/publication/horgan-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/horgan-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/horgan-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/horgan-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Illuminating active subglacial lake processes with ICESat-2 laser altimetry</title>
-      <link>http://localhost:1313/publication/siegfried-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Migratory earthquake precursors are dominant on an ice stream fault</title>
-      <link>http://localhost:1313/publication/barcheck-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/barcheck-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/barcheck-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/barcheck-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying surface-height change over a periglacial environment with ICESat-2 laser altimetry</title>
-      <link>http://localhost:1313/publication/michaelides-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/michaelides-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/michaelides-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/michaelides-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scientific Access into Mercer Subglacial Lake: Scientific Objectives, Drilling Operations and Initial Observations</title>
-      <link>http://localhost:1313/publication/priscu-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/priscu-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/priscu-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/priscu-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surface expression and apparent timing of subglacial lake oscillations controlled by viscous ice flow</title>
-      <link>http://localhost:1313/publication/stubblefield-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/stubblefield-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/stubblefield-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/stubblefield-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The scientific legacy of NASA&#39;s Operation IceBridge</title>
-      <link>http://localhost:1313/publication/macgregor-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/macgregor-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/macgregor-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/macgregor-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constraining West Antarctic snow accumulation and firn densification processes with GNSS reflectometry</title>
-      <link>http://localhost:1313/projects/gnss_snowfall/</link>
+      <link>https://mrsiegfried.github.io/projects/gnss_snowfall/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/gnss_snowfall/</guid>
+      <guid>https://mrsiegfried.github.io/projects/gnss_snowfall/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=800798/solicitationId=%7B26E97B17-21F2-26AE-D907-0BF9B458A05F%7D/viewSolicitationDocument=1/GNSS19%20selections_updated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA GNSS Research&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 September 2020 &lt;br&gt;
@@ -313,9 +313,9 @@
     
     <item>
       <title>Observationally Constrained Simulations of the Evolution of Polar Snow Using a Multi-Sensor Approach</title>
-      <link>http://localhost:1313/projects/ids/</link>
+      <link>https://mrsiegfried.github.io/projects/ids/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ids/</guid>
+      <guid>https://mrsiegfried.github.io/projects/ids/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=765904/solicitationId=%7B8713AEB5-29AA-57DF-BCDE-518CA1F973FF%7D/viewSolicitationDocument=1/IDS19%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Interdisciplinary Research in Earth Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 September, 2020 &lt;br&gt;
@@ -327,17 +327,17 @@
     
     <item>
       <title>Ocean-driven melting of Antarctica’s ice shelves varies on multi-year timescales</title>
-      <link>http://localhost:1313/publication/adusumilli-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/adusumilli-2020/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adusumilli-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/adusumilli-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pingo SubTerranean Aquifer Reconnaissance and Reconstruction (Pingo STARR)</title>
-      <link>http://localhost:1313/projects/pingostarr/</link>
+      <link>https://mrsiegfried.github.io/projects/pingostarr/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pingostarr/</guid>
+      <guid>https://mrsiegfried.github.io/projects/pingostarr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=743002/solicitationId=%7B602BD10E-6083-2C21-36B9-DE0C17B1774C%7D/viewSolicitationDocument=1/PSTAR19%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Planetary Science and Technology from Analog Research&lt;/a&gt; &lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 July, 2020 &lt;br&gt;
@@ -349,89 +349,89 @@
     
     <item>
       <title>Pervasive ice sheet mass loss reflects competing ocean and atmosphere processes</title>
-      <link>http://localhost:1313/publication/smith-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/smith-2020/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/smith-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/smith-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidal pressurization of the ocean cavity near an Antarctic ice shelf grounding line</title>
-      <link>http://localhost:1313/publication/begeman-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/begeman-2020/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/begeman-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/begeman-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antarctic topographic realizations and geostatistical modeling used to map subglacial lakes</title>
-      <link>http://localhost:1313/publication/mackie-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/mackie-2020/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mackie-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/mackie-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimation of ice fabric within Whillans Ice Stream using polarimetric phase-sensitive radar sounding</title>
-      <link>http://localhost:1313/publication/jordan-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/jordan-2020/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/jordan-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/jordan-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidecadal Basal Melt Rates and Structure of the Ross Ice Shelf, Antarctica, Using Airborne Ice Penetrating Radar</title>
-      <link>http://localhost:1313/publication/das-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/das-2020/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/das-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/das-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpreting englacial layer deformation in the presence of complex ice flow history with synthetic radargrams</title>
-      <link>http://localhost:1313/publication/elsworth-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/elsworth-2020/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elsworth-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/elsworth-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhanced trace element mobilization by Earth&#39;s ice sheets</title>
-      <link>http://localhost:1313/publication/hawkings-2020-cv/</link>
+      <link>https://mrsiegfried.github.io/publication/hawkings-2020-cv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hawkings-2020-cv/</guid>
+      <guid>https://mrsiegfried.github.io/publication/hawkings-2020-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mid-Holocene grounding line variability in the southern Ross Embayment</title>
-      <link>http://localhost:1313/publication/venturelli-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/venturelli-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/venturelli-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/venturelli-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidecadal observations of the Antarctic ice sheet from restored analog radar records</title>
-      <link>http://localhost:1313/publication/schroeder-2019/</link>
+      <link>https://mrsiegfried.github.io/publication/schroeder-2019/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schroeder-2019/</guid>
+      <guid>https://mrsiegfried.github.io/publication/schroeder-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Land ice height-retrieval algorithm for NASA&#39;s ICESat-2 photon-counting laser altimeter</title>
-      <link>http://localhost:1313/publication/smith-2019/</link>
+      <link>https://mrsiegfried.github.io/publication/smith-2019/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/smith-2019/</guid>
+      <guid>https://mrsiegfried.github.io/publication/smith-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The West Antarctic Ice Sheet (WAIS) Workshop</title>
-      <link>http://localhost:1313/projects/wais_workshop/</link>
+      <link>https://mrsiegfried.github.io/projects/wais_workshop/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/wais_workshop/</guid>
+      <guid>https://mrsiegfried.github.io/projects/wais_workshop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; NASA Cryospheric Science and NSF Antarctic Science&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 August 2019 &lt;br&gt;
 &lt;strong&gt;End Date:&lt;/strong&gt; 31 July 2023  &lt;br&gt;
@@ -443,9 +443,9 @@
     
     <item>
       <title>Quantifying the error distribution of Operation IceBridge swath altimetry to generate robust, long-duration time series of height changes over dyanmic features in Antarctica</title>
-      <link>http://localhost:1313/projects/icebridge/</link>
+      <link>https://mrsiegfried.github.io/projects/icebridge/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/icebridge/</guid>
+      <guid>https://mrsiegfried.github.io/projects/icebridge/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=555585/solicitationId=%7BD244F3AA-37A1-4199-BDB4-F62FA4C34EBD%7D/viewSolicitationDocument=1/ICEBRIDGE16%20SELECTIONS_2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Operation IceBridge Science Team&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 April 2019 &lt;br&gt;
@@ -457,65 +457,65 @@
     
     <item>
       <title>Ross Ice Shelf response to climate driven by the tectonic imprint on seafloor bathymetry</title>
-      <link>http://localhost:1313/publication/tinto-2019/</link>
+      <link>https://mrsiegfried.github.io/publication/tinto-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tinto-2019/</guid>
+      <guid>https://mrsiegfried.github.io/publication/tinto-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retrieval of Englacial Firn Aquifer Thickness from Ice-Penetrating Radar Sounding in Southeast Greenland</title>
-      <link>http://localhost:1313/publication/chu-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/chu-2018/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chu-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/chu-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ocean stratification and low melt rates at the Ross Ice Shelf grounding zone</title>
-      <link>http://localhost:1313/publication/begeman-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/begeman-2018/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/begeman-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/begeman-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thirteen years of subglacial lake activity in Antarctica from multi-mission altimetry</title>
-      <link>http://localhost:1313/publication/siegfried-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variable basal melt rates of Antarctic Peninsula ice shelves, 1994–2016</title>
-      <link>http://localhost:1313/publication/adusumilli-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/adusumilli-2018/</link>
       <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adusumilli-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/adusumilli-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ocean tide influences on ice sheet processes</title>
-      <link>http://localhost:1313/publication/padman-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/padman-2018/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/padman-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/padman-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Response of Pacific-sector Antarctic ice shelves to the El Niño / Southern Oscillation</title>
-      <link>http://localhost:1313/publication/paolo-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/paolo-2018/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paolo-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/paolo-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SALSA EM: Mapping Subglacial Groundwater in Antarctica</title>
-      <link>http://localhost:1313/projects/salsa_em/</link>
+      <link>https://mrsiegfried.github.io/projects/salsa_em/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/salsa_em/</guid>
+      <guid>https://mrsiegfried.github.io/projects/salsa_em/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=1643917&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF Antarctic Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 December 2017 &lt;br&gt;
@@ -528,145 +528,145 @@
     
     <item>
       <title>Antarctic subglacial lakes drain through sediment-floored canals: Theory and model testing on real and idealized domains</title>
-      <link>http://localhost:1313/publication/carter-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/carter-2017/</link>
       <pubDate>Thu, 02 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/carter-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/carter-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Much, How Fast? A Review and Science Plan for Research on the Instability of Antarctica&#39;s Thwaites Glacier in the 21st Century</title>
-      <link>http://localhost:1313/publication/scambos-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/scambos-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/scambos-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/scambos-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sediment behavior controls equilibrium width of subglacial channels</title>
-      <link>http://localhost:1313/publication/damsgaard-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/damsgaard-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/damsgaard-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/damsgaard-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snow accumulation variability on a West Antarctic ice stream observed with GPS reflectometry, 2007--2017</title>
-      <link>http://localhost:1313/publication/siegfried-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The feasibility of ground-based electromagnetic methods for mapping the subglacial hydrological structure beneath ice streams</title>
-      <link>http://localhost:1313/publication/key-2017/</link>
+      <link>https://mrsiegfried.github.io/publication/key-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/key-2017/</guid>
+      <guid>https://mrsiegfried.github.io/publication/key-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbial Community Structure of Subglacial Lake Whillans, West Antarctica</title>
-      <link>http://localhost:1313/publication/achberger-2016-cv/</link>
+      <link>https://mrsiegfried.github.io/publication/achberger-2016-cv/</link>
       <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/achberger-2016-cv/</guid>
+      <guid>https://mrsiegfried.github.io/publication/achberger-2016-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>http://localhost:1313/project_example/external-project/</link>
+      <link>https://mrsiegfried.github.io/project_example/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project_example/external-project/</guid>
+      <guid>https://mrsiegfried.github.io/project_example/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impacts of warm water on Antarctic ice shelf stability through basal channel formation</title>
-      <link>http://localhost:1313/publication/alley-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/alley-2016/</link>
       <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/alley-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/alley-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Episodic ice velocity fluctuations triggered by a subglacial flood in West Antarctica</title>
-      <link>http://localhost:1313/publication/siegfried-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High basal melting forming a channel at the grounding line of Ross Ice Shelf, Antarctica</title>
-      <link>http://localhost:1313/publication/marsh-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/marsh-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/marsh-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/marsh-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ice flow dynamics forced by rapid water-pressure variations in subglacial granular beds</title>
-      <link>http://localhost:1313/publication/damsgaard-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/damsgaard-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/damsgaard-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/damsgaard-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physical processes in Subglacial Lake Whillans, West Antarctica: inferences from sediment cores</title>
-      <link>http://localhost:1313/publication/hodson-2016-cv/</link>
+      <link>https://mrsiegfried.github.io/publication/hodson-2016-cv/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hodson-2016-cv/</guid>
+      <guid>https://mrsiegfried.github.io/publication/hodson-2016-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physiological ecology of microorganisms in Subglacial Lake Whillans</title>
-      <link>http://localhost:1313/publication/vick-2016/</link>
+      <link>https://mrsiegfried.github.io/publication/vick-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vick-2016/</guid>
+      <guid>https://mrsiegfried.github.io/publication/vick-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High geothermal heat flux measured below the West Antarctic Ice Sheet</title>
-      <link>http://localhost:1313/publication/fisher-2015/</link>
+      <link>https://mrsiegfried.github.io/publication/fisher-2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fisher-2015/</guid>
+      <guid>https://mrsiegfried.github.io/publication/fisher-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A decade of progress in observing and modeling Antarctic subglacial water systems</title>
-      <link>http://localhost:1313/publication/fricker-2015/</link>
+      <link>https://mrsiegfried.github.io/publication/fricker-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fricker-2015/</guid>
+      <guid>https://mrsiegfried.github.io/publication/fricker-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subglacial Lake Whillans biogeochemistry: a synthesis of current knowledge</title>
-      <link>http://localhost:1313/publication/mikucki-2015/</link>
+      <link>https://mrsiegfried.github.io/publication/mikucki-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mikucki-2015/</guid>
+      <guid>https://mrsiegfried.github.io/publication/mikucki-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A microbial ecosystem beneath the West Antarctic ice sheet</title>
-      <link>http://localhost:1313/publication/christner-2014-cv/</link>
+      <link>https://mrsiegfried.github.io/publication/christner-2014-cv/</link>
       <pubDate>Wed, 20 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/christner-2014-cv/</guid>
+      <guid>https://mrsiegfried.github.io/publication/christner-2014-cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>http://localhost:1313/project_example/internal-project/</link>
+      <link>https://mrsiegfried.github.io/project_example/internal-project/</link>
       <pubDate>Wed, 30 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project_example/internal-project/</guid>
+      <guid>https://mrsiegfried.github.io/project_example/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -677,81 +677,81 @@
     
     <item>
       <title>A decade of West Antarctic subglacial lake interactions from combined ICESat and CryoSat-2 altimetry</title>
-      <link>http://localhost:1313/publication/siegfried-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbial sulfur transformations in sediments from Subglacial Lake Whillans</title>
-      <link>http://localhost:1313/publication/purcell-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/purcell-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/purcell-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/purcell-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The structural and dynamic responses of Stange Ice Shelf to recent environmental change</title>
-      <link>http://localhost:1313/publication/holt-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/holt-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holt-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/holt-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WISSARD at Subglacial Lake Whillans, West Antarctica: scientific operations and initial observations</title>
-      <link>http://localhost:1313/publication/tulaczyk-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/tulaczyk-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tulaczyk-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/tulaczyk-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence of rapid subglacial water piracy under Whillans Ice Stream, West Antarctica</title>
-      <link>http://localhost:1313/publication/carter-2013/</link>
+      <link>https://mrsiegfried.github.io/publication/carter-2013/</link>
       <pubDate>Mon, 16 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/carter-2013/</guid>
+      <guid>https://mrsiegfried.github.io/publication/carter-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A microbiologically clean strategy for access to the Whillans Ice Stream subglacial environment</title>
-      <link>http://localhost:1313/publication/priscu-2013/</link>
+      <link>https://mrsiegfried.github.io/publication/priscu-2013/</link>
       <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/priscu-2013/</guid>
+      <guid>https://mrsiegfried.github.io/publication/priscu-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estuaries beneath ice sheets</title>
-      <link>http://localhost:1313/publication/horgan-2013/</link>
+      <link>https://mrsiegfried.github.io/publication/horgan-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/horgan-2013/</guid>
+      <guid>https://mrsiegfried.github.io/publication/horgan-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speedup and fracturing of George VI Ice Shelf, Antarctic Peninsula</title>
-      <link>http://localhost:1313/publication/holt-2013/</link>
+      <link>https://mrsiegfried.github.io/publication/holt-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holt-2013/</guid>
+      <guid>https://mrsiegfried.github.io/publication/holt-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Arsenic speciation in food chains from mid-Atlantic hydrothermal vents</title>
-      <link>http://localhost:1313/publication/taylor-2012/</link>
+      <link>https://mrsiegfried.github.io/publication/taylor-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/taylor-2012/</guid>
+      <guid>https://mrsiegfried.github.io/publication/taylor-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Resolution Ground-Based GPS Measurements Show Intercampaign Bias in ICESat Elevation Data Near Summit, Greenland</title>
-      <link>http://localhost:1313/publication/siegfried-2011/</link>
+      <link>https://mrsiegfried.github.io/publication/siegfried-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/siegfried-2011/</guid>
+      <guid>https://mrsiegfried.github.io/publication/siegfried-2011/</guid>
       <description></description>
     </item>
     

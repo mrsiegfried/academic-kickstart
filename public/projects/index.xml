@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Funded Projects | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/projects/</link>
-      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/projects/</link>
+      <atom:link href="https://mrsiegfried.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Funded Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Funded Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://mrsiegfried.github.io/projects/</link>
     </image>
     
     <item>
       <title>Accelerating NASA Cryosphere and ICESat-2 science with collaborative cloud computing</title>
-      <link>http://localhost:1313/projects/cryo_in_the_cloud/</link>
+      <link>https://mrsiegfried.github.io/projects/cryo_in_the_cloud/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/cryo_in_the_cloud/</guid>
+      <guid>https://mrsiegfried.github.io/projects/cryo_in_the_cloud/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://science.nasa.gov/open-science/transform-to-open-science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Transform to Open Science &lt;/a&gt; and 
 &lt;a href=&#34;https://icesat-2.gsfc.nasa.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA ICESat-2 Project Science Office&lt;/a&gt;&lt;br&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>Teaching old data new tricks: Leveraging legacy field data to investigate ice-stream shut down and inspire a new generation of cryospheric scientists</title>
-      <link>http://localhost:1313/projects/career_whillans/</link>
+      <link>https://mrsiegfried.github.io/projects/career_whillans/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/career_whillans/</guid>
+      <guid>https://mrsiegfried.github.io/projects/career_whillans/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=2145407&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF CAREER Program&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 August 2022 &lt;br&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Quantifying bias and uncertainty sources between laser and radar retrievals of surface topography over cryospheric targets</title>
-      <link>http://localhost:1313/projects/dsi/</link>
+      <link>https://mrsiegfried.github.io/projects/dsi/</link>
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dsi/</guid>
+      <guid>https://mrsiegfried.github.io/projects/dsi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=854093/solicitationId=%7B666D7B9E-7538-92FE-4BF6-63FFD313B47F%7D/viewSolicitationDocument=1/CRYO21%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Decadal Survey Incubation Program Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 15 June 2022 &lt;br&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Seeds of Change: Investigating the Impact of Antarctic Basal Channel and Persistent Polynya Co-Evolution on Ice Shelf Stability</title>
-      <link>http://localhost:1313/projects/cryo_polynyas/</link>
+      <link>https://mrsiegfried.github.io/projects/cryo_polynyas/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/cryo_polynyas/</guid>
+      <guid>https://mrsiegfried.github.io/projects/cryo_polynyas/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=854093/solicitationId=%7B666D7B9E-7538-92FE-4BF6-63FFD313B47F%7D/viewSolicitationDocument=1/CRYO21%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Cryospheric Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 February 2022 &lt;br&gt;
@@ -88,9 +88,9 @@
     
     <item>
       <title>Investigating four decades of Ross Ice Shelf subsurface change with historical and modern radar sounding data</title>
-      <link>http://localhost:1313/projects/spri_rosetta/</link>
+      <link>https://mrsiegfried.github.io/projects/spri_rosetta/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/spri_rosetta/</guid>
+      <guid>https://mrsiegfried.github.io/projects/spri_rosetta/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=2049302&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF Antarctic Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 15 August 2021 &lt;br&gt;
@@ -103,9 +103,9 @@
     
     <item>
       <title>Leveraging ICESat-2 altimetry for Antarctic subglacial lake identification, evolution, and basal properties</title>
-      <link>http://localhost:1313/projects/icesat2_science-team/</link>
+      <link>https://mrsiegfried.github.io/projects/icesat2_science-team/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/icesat2_science-team/</guid>
+      <guid>https://mrsiegfried.github.io/projects/icesat2_science-team/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=800798/solicitationId=%7B26E97B17-21F2-26AE-D907-0BF9B458A05F%7D/viewSolicitationDocument=1/GNSS19%20selections_updated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Studies with ICESat-2&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 May 2021 &lt;br&gt;
@@ -121,9 +121,9 @@
     
     <item>
       <title>Constraining West Antarctic snow accumulation and firn densification processes with GNSS reflectometry</title>
-      <link>http://localhost:1313/projects/gnss_snowfall/</link>
+      <link>https://mrsiegfried.github.io/projects/gnss_snowfall/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/gnss_snowfall/</guid>
+      <guid>https://mrsiegfried.github.io/projects/gnss_snowfall/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=800798/solicitationId=%7B26E97B17-21F2-26AE-D907-0BF9B458A05F%7D/viewSolicitationDocument=1/GNSS19%20selections_updated.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA GNSS Research&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 September 2020 &lt;br&gt;
@@ -137,9 +137,9 @@
     
     <item>
       <title>Observationally Constrained Simulations of the Evolution of Polar Snow Using a Multi-Sensor Approach</title>
-      <link>http://localhost:1313/projects/ids/</link>
+      <link>https://mrsiegfried.github.io/projects/ids/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ids/</guid>
+      <guid>https://mrsiegfried.github.io/projects/ids/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=765904/solicitationId=%7B8713AEB5-29AA-57DF-BCDE-518CA1F973FF%7D/viewSolicitationDocument=1/IDS19%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Interdisciplinary Research in Earth Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 September, 2020 &lt;br&gt;
@@ -151,9 +151,9 @@
     
     <item>
       <title>Pingo SubTerranean Aquifer Reconnaissance and Reconstruction (Pingo STARR)</title>
-      <link>http://localhost:1313/projects/pingostarr/</link>
+      <link>https://mrsiegfried.github.io/projects/pingostarr/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pingostarr/</guid>
+      <guid>https://mrsiegfried.github.io/projects/pingostarr/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=743002/solicitationId=%7B602BD10E-6083-2C21-36B9-DE0C17B1774C%7D/viewSolicitationDocument=1/PSTAR19%20Abstracts.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Planetary Science and Technology from Analog Research&lt;/a&gt; &lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 July, 2020 &lt;br&gt;
@@ -165,9 +165,9 @@
     
     <item>
       <title>The West Antarctic Ice Sheet (WAIS) Workshop</title>
-      <link>http://localhost:1313/projects/wais_workshop/</link>
+      <link>https://mrsiegfried.github.io/projects/wais_workshop/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/wais_workshop/</guid>
+      <guid>https://mrsiegfried.github.io/projects/wais_workshop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; NASA Cryospheric Science and NSF Antarctic Science&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 August 2019 &lt;br&gt;
 &lt;strong&gt;End Date:&lt;/strong&gt; 31 July 2023  &lt;br&gt;
@@ -179,9 +179,9 @@
     
     <item>
       <title>Quantifying the error distribution of Operation IceBridge swath altimetry to generate robust, long-duration time series of height changes over dyanmic features in Antarctica</title>
-      <link>http://localhost:1313/projects/icebridge/</link>
+      <link>https://mrsiegfried.github.io/projects/icebridge/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/icebridge/</guid>
+      <guid>https://mrsiegfried.github.io/projects/icebridge/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=555585/solicitationId=%7BD244F3AA-37A1-4199-BDB4-F62FA4C34EBD%7D/viewSolicitationDocument=1/ICEBRIDGE16%20SELECTIONS_2.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NASA Operation IceBridge Science Team&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 April 2019 &lt;br&gt;
@@ -193,9 +193,9 @@
     
     <item>
       <title>SALSA EM: Mapping Subglacial Groundwater in Antarctica</title>
-      <link>http://localhost:1313/projects/salsa_em/</link>
+      <link>https://mrsiegfried.github.io/projects/salsa_em/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/salsa_em/</guid>
+      <guid>https://mrsiegfried.github.io/projects/salsa_em/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Funding Program:&lt;/strong&gt; 
 &lt;a href=&#34;https://nsf.gov/awardsearch/showAward?AWD_ID=1643917&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF Antarctic Science&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Start Date:&lt;/strong&gt; 1 December 2017 &lt;br&gt;

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laurie Padman | Matthew R. Siegfried</title>
-    <link>http://localhost:1313/author/laurie-padman/</link>
-      <atom:link href="http://localhost:1313/author/laurie-padman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mrsiegfried.github.io/author/laurie-padman/</link>
+      <atom:link href="https://mrsiegfried.github.io/author/laurie-padman/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurie Padman</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/img/rosetta-crevasse.jpg</url>
+      <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
       <title>Laurie Padman</title>
-      <link>http://localhost:1313/author/laurie-padman/</link>
+      <link>https://mrsiegfried.github.io/author/laurie-padman/</link>
     </image>
     
     <item>
       <title>Buoyancy-driven flexure at the front of Ross Ice Shelf, Antarctica, observed by ICESat-2 satellite laser altimetry</title>
-      <link>http://localhost:1313/publication/becker-2021/</link>
+      <link>https://mrsiegfried.github.io/publication/becker-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/becker-2021/</guid>
+      <guid>https://mrsiegfried.github.io/publication/becker-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ocean-driven melting of Antarctica’s ice shelves varies on multi-year timescales</title>
-      <link>http://localhost:1313/publication/adusumilli-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/adusumilli-2020/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adusumilli-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/adusumilli-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidecadal Basal Melt Rates and Structure of the Ross Ice Shelf, Antarctica, Using Airborne Ice Penetrating Radar</title>
-      <link>http://localhost:1313/publication/das-2020/</link>
+      <link>https://mrsiegfried.github.io/publication/das-2020/</link>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/das-2020/</guid>
+      <guid>https://mrsiegfried.github.io/publication/das-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ocean tide influences on ice sheet processes</title>
-      <link>http://localhost:1313/publication/padman-2018/</link>
+      <link>https://mrsiegfried.github.io/publication/padman-2018/</link>
       <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/padman-2018/</guid>
+      <guid>https://mrsiegfried.github.io/publication/padman-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The structural and dynamic responses of Stange Ice Shelf to recent environmental change</title>
-      <link>http://localhost:1313/publication/holt-2014/</link>
+      <link>https://mrsiegfried.github.io/publication/holt-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holt-2014/</guid>
+      <guid>https://mrsiegfried.github.io/publication/holt-2014/</guid>
       <description></description>
     </item>
     
