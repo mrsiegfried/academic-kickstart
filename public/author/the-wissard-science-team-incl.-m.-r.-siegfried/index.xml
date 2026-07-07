@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The WISSARD Science Team (Incl. M. R. Siegfried | Matthew R. Siegfried</title>
+    <title>The WISSARD Science Team (Incl. M. R. Siegfried) | Matthew R. Siegfried</title>
     <link>https://mrsiegfried.github.io/author/the-wissard-science-team-incl.-m.-r.-siegfried/</link>
       <atom:link href="https://mrsiegfried.github.io/author/the-wissard-science-team-incl.-m.-r.-siegfried/index.xml" rel="self" type="application/rss+xml" />
-    <description>The WISSARD Science Team (Incl. M. R. Siegfried</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <description>The WISSARD Science Team (Incl. M. R. Siegfried)</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mrsiegfried.github.io/img/rosetta-crevasse.jpg</url>
-      <title>The WISSARD Science Team (Incl. M. R. Siegfried</title>
+      <title>The WISSARD Science Team (Incl. M. R. Siegfried)</title>
       <link>https://mrsiegfried.github.io/author/the-wissard-science-team-incl.-m.-r.-siegfried/</link>
     </image>
     
     <item>
-      <title>High geothermal heat flux measured below the West Antarctic Ice Sheet</title>
-      <link>https://mrsiegfried.github.io/publication/fisher-2015/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mrsiegfried.github.io/publication/fisher-2015/</guid>
+      <title>Microbial Community Structure of Subglacial Lake Whillans, West Antarctica</title>
+      <link>https://mrsiegfried.github.io/publication/achberger-2016-cv/</link>
+      <pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://mrsiegfried.github.io/publication/achberger-2016-cv/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
   </channel>
 </rss>
